@@ -1,9 +1,9 @@
 class StarlingCli < Formula
   desc ""
   homepage ""
-  url "https://github.com/billglover/starling-cli/releases/download/0.0.0/starling-cli_0.0.0_macOS_64-bit.tar.gz"
-  version "0.0.0"
-  sha256 "8a8e893821d3f784fc0f5814250cf3f941422d6a4e3be14a9db8865c29ad192c"
+  url "https://github.com/billglover/starling-cli/releases/download/0.0.1/starling-cli_0.0.1_macOS_64-bit.tar.gz"
+  version "0.0.1"
+  sha256 "e8016f4a63d6c9cf21fc33014fc09e746dfb9bb62d0a82ad153fa04ca391e926"
 
   def install
     bin.install "starling-cli"
